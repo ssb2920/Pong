@@ -1347,6 +1347,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   useDynamicBounce: 1
+  swipeSensitivity: 40
+  paddleSpeed: 20
 --- !u!50 &1535292067
 Rigidbody2D:
   serializedVersion: 4
